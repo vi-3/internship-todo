@@ -4,7 +4,12 @@
   4 touch README.md - создание файла  
   5 vim README.md - открываю файл в ридакотре vim и редактирую его  
   6 cd strudent_\<622087\>/ - перехожу в папку  
-  7 touch .gitignore - создание файла  
+  7 touch .gitignore - создание файла
+  .gitignore -   
   8 touch git_bash_commands.md -создание файла  
   9 history > git_bash_commands.md - переношу историю командной страки в файл  
   10 vim git_bash_commands.md - открываю файл в редакторе vim и редактирую его  
+  11 git add . - 
+  12 git commit -m "" -
+  13 git push origin main - 
+
